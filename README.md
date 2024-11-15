@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! 🚀 Aqui compartilho minhas atividades, projetos
 
 ## 📂 Estrutura do Repositório
 
-- **notebooks/**: Todos os meus arquivos do Jupyter Notebook estão organizados nesta pasta. Cada notebook aborda um tópico específico, como análise de dados ou desenvolvimento de algoritmos.
+- **Notebooks**: Todos os meus arquivos do Jupyter Notebook estão organizados nesta pasta. Cada notebook aborda um tópico específico, como análise de dados ou desenvolvimento de algoritmos.
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -16,8 +16,8 @@ Este repositório utiliza as seguintes ferramentas:
 ## 📚 Atividades Incluídas
 Exemplos de atividades que você pode encontrar aqui:
 
-- **Análise e visualização de dados com pandas e matplotlib.
-- **Exercícios básicos de prática em Python.
+- Análise e visualização de dados com pandas e matplotlib.
+- Exercícios básicos de prática em Python.
 
 ## 🚀 Como Utilizar
 
@@ -29,5 +29,5 @@ bash
 ## 📝 Contribuições
 Este é um repositório pessoal de aprendizado, mas sinta-se à vontade para:
 
-- **Reportar problemas ou bugs.
-- **Sugerir novas atividades ou melhorias.
+- Reportar problemas ou bugs.
+- Sugerir novas atividades ou melhorias.
